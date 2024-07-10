@@ -1,1 +1,9 @@
+CNN_captcha-master.zip
+__pycache__
 userTest
+myCAPTCHA
+model
+! model\resNet_new.pth
+7.10刘骥远周报.docx
+*.bin
+train_img.bin
